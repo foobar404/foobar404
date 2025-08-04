@@ -16,6 +16,10 @@
   </a>
 </p>
 
+---
+
+### 🛠️ Tech Stack (By Years Used)
+
 <table align="center">
   <tr>
     <th>Tool</th>
@@ -37,35 +41,64 @@
     <td>JavaScript</td>
     <td><img src="https://skillicons.dev/icons?i=js" height="20"/></td>
     <td align="center">8</td>
+    <td>REST API</td>
+    <td><img src="https://skillicons.dev/icons?i=api" height="20"/></td>
+    <td align="center">8</td>
+  </tr>
+  <tr>
+    <td>npm</td>
+    <td><img src="https://skillicons.dev/icons?i=npm" height="20"/></td>
+    <td align="center">8</td>
     <td>Python</td>
     <td><img src="https://skillicons.dev/icons?i=python" height="20"/></td>
     <td align="center">8</td>
   </tr>
   <tr>
+    <td>React</td>
+    <td><img src="https://skillicons.dev/icons?i=react" height="20"/></td>
+    <td align="center">5</td>
     <td>Node.js</td>
     <td><img src="https://skillicons.dev/icons?i=nodejs" height="20"/></td>
     <td align="center">5</td>
+  </tr>
+  <tr>
     <td>TypeScript</td>
     <td><img src="https://skillicons.dev/icons?i=ts" height="20"/></td>
     <td align="center">4</td>
-  </tr>
-  <tr>
     <td>Firebase</td>
     <td><img src="https://skillicons.dev/icons?i=firebase" height="20"/></td>
     <td align="center">4</td>
+  </tr>
+  <tr>
     <td>TailwindCSS</td>
     <td><img src="https://skillicons.dev/icons?i=tailwind" height="20"/></td>
     <td align="center">3</td>
+    <td>GraphQL</td>
+    <td><img src="https://skillicons.dev/icons?i=graphql" height="20"/></td>
+    <td align="center">2</td>
   </tr>
   <tr>
+    <td>Vite</td>
+    <td><img src="https://skillicons.dev/icons?i=vite" height="20"/></td>
+    <td align="center">2</td>
+    <td>Jest</td>
+    <td><img src="https://skillicons.dev/icons?i=jest" height="20"/></td>
+    <td align="center">2</td>
+  </tr>
+  <tr>
+    <td>React Testing Library</td>
+    <td><img src="https://skillicons.dev/icons?i=testinglibrary" height="20"/></td>
+    <td align="center">2</td>
     <td>AWS</td>
     <td><img src="https://skillicons.dev/icons?i=aws" height="20"/></td>
     <td align="center">2</td>
+  </tr>
+  <tr>
+    <td>Zustand</td>
+    <td><img src="https://skillicons.dev/icons?i=zustand" height="20"/></td>
+    <td align="center">1</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
 </table>
-
----
-
