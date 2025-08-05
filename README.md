@@ -7,13 +7,19 @@
 </p>
 
 <p align="center">
-  <a href="mailto:austinthemichaud@gmail.com">
-    <img alt="email" src="https://img.shields.io/badge/email-austinthemichaud@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+
+  <a href="mailto:austinthemichaud@gmail.com" style="margin: 0 12px;">
+    <img alt="Email" src="https://img.shields.io/badge/%20Email-austinthemichaud@gmail.com-FFAAA5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/austin-michaud-9b25aa141/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-austinmichaud-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/austin-michaud-9b25aa141/" target="_blank" rel="noopener noreferrer" style="margin: 0 12px;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/🔗%20LinkedIn-austinmichaud-A0CED9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/in/austin-michaud-9b25aa141/overlay/1752781273855/single-media-viewer/?profileId=ACoAACJv_xYBqUJ-FUTlMtPBP-UByo5rH0GVlxE" target="_blank" rel="noopener noreferrer" style="margin: 0 12px;">
+    <img alt="Resume" src="https://img.shields.io/badge/📄%20Resume-View%20on%20LinkedIn-B4E7B1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 </p>
 
 ---
