@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Full-stack Web Engineer · Based in 🇲🇽 Mexico City
+  Full-stack Web Engineer · Based in 🇮🇪 Dublin, Ireland
 </p>
 
 <p align="center">
